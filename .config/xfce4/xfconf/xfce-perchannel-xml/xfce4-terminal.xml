@@ -1,0 +1,32 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.80000000000000004"/>
+  <property name="title-initial" type="string" value="NEWTerminal"/>
+  <property name="scrolling-on-output" type="bool" value="true"/>
+  <property name="scrolling-unlimited" type="bool" value="true"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_BLOCK"/>
+  <property name="misc-cursor-blinks" type="bool" value="true"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="font-allow-bold" type="bool" value="true"/>
+  <property name="font-name" type="string" value="JetBrainsMonoNL Nerd Font Mono Bold 12"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="color-foreground" type="string" value="#17f018"/>
+  <property name="tab-activity-color" type="string" value="#aa0000"/>
+  <property name="color-cursor-use-default" type="bool" value="false"/>
+  <property name="color-cursor-foreground" type="string" value=""/>
+  <property name="color-cursor" type="string" value="#35358484e4e4"/>
+  <property name="color-selection-use-default" type="bool" value="false"/>
+  <property name="color-selection" type="string" value="#3d3d38384646"/>
+  <property name="color-selection-background" type="string" value="#ffffffff5555"/>
+  <property name="color-bold-use-default" type="bool" value="true"/>
+  <property name="color-bold" type="string" value="#9999c1c1f1f1"/>
+  <property name="misc-middle-click-opens-uri" type="bool" value="true"/>
+  <property name="color-background" type="string" value="#000000"/>
+  <property name="color-background-vary" type="bool" value="false"/>
+  <property name="color-palette" type="string" value="#000000;#aa0000;#00aa00;#aa5500;#0000aa;#aa00aa;#00aaaa;#aaaaaa;#555555;#ff5555;#55ff55;#ffff55;#5555ff;#ff55ff;#55ffff;#ffffff"/>
+  <property name="color-bold-is-bright" type="bool" value="true"/>
+  <property name="color-use-theme" type="bool" value="false"/>
+  <property name="misc-confirm-close" type="bool" value="false"/>
+</channel>

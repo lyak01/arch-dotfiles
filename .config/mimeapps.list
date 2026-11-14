@@ -1,0 +1,18 @@
+[Added Associations]
+video/mp4=mpv.desktop;vlc.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+application/x-msdownload=wine.desktop;
+audio/mpeg=org.strawberrymusicplayer.strawberry.desktop;
+image/png=org.xfce.ristretto.desktop;brave-browser.desktop;
+image/jpeg=org.xfce.ristretto.desktop;
+
+[Default Applications]
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/pttp=CiscoPacketTracerPtsa-9.0.1.desktop
+application/x-pka=CiscoPacketTracer-9.0.1.desktop
+application/x-pkt=CiscoPacketTracer-9.0.1.desktop
+application/x-pkz=CiscoPacketTracer-9.0.1.desktop
+application/x-pksz=CiscoPacketTracer-9.0.1.desktop
+audio/mpeg=org.strawberrymusicplayer.strawberry.desktop

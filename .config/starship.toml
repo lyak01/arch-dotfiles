@@ -1,0 +1,30 @@
+add_newline = false
+format = "$username$directory$git_branch$git_status$cmd_duration$character"
+
+[directory]
+format = "[$path]($style) "
+style = "bold #89b4fa"
+truncation_length = 0
+truncate_to_repo = false
+
+[git_branch]
+symbol = " "
+style = "bold #f9e2af"
+
+[git_status]
+style = "bold #f9e2af"
+
+[cmd_duration]
+min_time = 2000
+format = "[$duration]($style) "
+style = "#89b4fa"
+
+[character]
+success_symbol = "[❯](bold #a6e3a1)"
+error_symbol = "[❯](bold #ff6b6b)"
+
+[username]
+show_always = false
+style_user = "bold #f9e2af"
+style_root = "bold #ff5555"
+format = "[$user ]($style)"
